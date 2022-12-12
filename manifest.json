@@ -24,11 +24,11 @@
         "sizes": "512x512",
         "type": "image/png"
         }],
-    "name": "PIAC TEST",
-    "short_name": "PIAC",
+    "name": "CatPWA",
+    "short_name": "CAT",
     "lang": "en-US",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "white",
-    "theme_color": "white"
+    "background_color": "beige",
+    "theme_color": "beige"
 }
